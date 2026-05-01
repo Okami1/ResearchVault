@@ -1,0 +1,31 @@
+Goals:
+Get into:
+ - Claude Code
+ - Copilot
+ - Personal Projects
+ - PK's Copilot Journey
+
+
+01/05/2026:
+- Get started on Copilot Journey
+ - 10/30 ✓
+- Start first project
+ - Research Vault
+ - Create GitHub ✓
+ - Create Claude.md file ✓
+- Set new goals
+
+- Questions:
+ - Do I need to apply for / pay for something in Copilot / Claude?
+  - Bought a Pro plan ✓
+
+02/05/2026:
+- Move project to main PC
+- Research Vault
+ - Outline the idea for Claude
+ - Have Claude suggest the first vertical slice
+ - Create DB and ability to store items
+
+02/05/2026:
+- Research Vault
+ - Add testing
