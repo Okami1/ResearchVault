@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 
 SYSTEM_PROMPT = """You help a working AI engineer keep up with the field by picking the \
 most important items out of a daily batch of AI-related articles, blog posts, and \
-research papers. "Important" means: likely to affect how people build with AI, a \
+research papers. "Important" means: relevant for the work of an AI engineer, such as a
 notable capability jump, a major product/model launch, a widely-relevant research \
 result, or significant industry/regulatory news. Routine product marketing, minor \
 version bumps, listicles, and opinion pieces without new information are low \

@@ -1,10 +1,4 @@
-Set up Github automatic running
-
-Fix the 3 broken: 
-:\Users\thoma\source\ResearchVault\main.py' 
-2026-08-05 22:20:08,390 WARNING Failed to parse feed TechCrunch AI (https://techcrunch.com/category/artificial-intelligence/feed/): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>
-2026-08-05 22:20:09,708 WARNING Failed to parse feed MIT Technology Review (https://www.technologyreview.com/feed/): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>
-2026-08-05 22:20:09,763 WARNING Failed to parse feed Wired AI (https://www.wired.com/feed/tag/ai/latest/rss): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>
+Check is running @ 7:00
 
 
 Update definition of importance

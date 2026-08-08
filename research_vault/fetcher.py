@@ -40,6 +40,10 @@ def fetch_source(source: Source, cutoff: datetime, max_articles: int) -> list[Ar
     if parsed.bozo and not parsed.entries:
         logger.warning("Failed to parse feed %s (%s): %s", source.name, source.url, parsed.bozo_exception)
         return []
+    elif parsed.bozo:
+        logger.warning("Feed %s (%s) had parse errors: %s", source.name, source.url, parsed.bozo_exception)
+    else:
+        logger.info("Fetched %d entries from feed %s (%s)", len(parsed.entries), source.name, source.url)
 
     articles = []
     for entry in parsed.entries:
